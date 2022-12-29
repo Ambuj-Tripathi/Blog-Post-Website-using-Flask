@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/coding_balor",
+    "prod_uri": "mysql://root:@localhost/coding_balor",
+    "fb_url": "https://facebook.com/coding_balor",
+    "tw_url": "https://twitter.com/coding_balor",
+    "gh_url": "https://github.com/coding_balor",
+    "blog_name": "Coding Demon",
+    "tag_line": "Poured knowledge of programmers",
+    "gmail_user": "",
+    "gmail_password": "",
+    "about_text": "Hi my name is Ambuj and I aspire to be a machine learning developer",
+    "no_of_posts": 3,
+    "login_image": "bootstrap-logo.svg",
+    "admin_user": "harry",
+    "admin_password": "subscribenow",
+    "upload_location": ""
+  }
+
+
+
+}
